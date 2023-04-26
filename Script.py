@@ -13,7 +13,7 @@ def is_enabled(value, default):
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://shorturllink.in/ref/jha142941')
     START_TXT = environ.get("START_TXT", '''Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I am a private bot made by sks  \n\nAre you can tell me any movie name I will give...🤪''')
+Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I am a private bot made by sks  \n\n you can tell me any movie name I will give whether it is night or day ...🤪''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
